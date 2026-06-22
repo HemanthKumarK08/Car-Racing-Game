@@ -35,48 +35,7 @@ The game features an attractive user interface, responsive controls, progressive
 
 ## 🎯 Game Workflow
 
-```text
-Launch Game
-      │
-      ▼
-Main Menu
-      │
-      ▼
-Click "Start Game"
-      │
-      ▼
-Gameplay Begins
-      │
-      ▼
-Move Car Left / Right
-      │
-      ▼
-Avoid Enemy Vehicles
-      │
-      ▼
-Score Increases
-      │
-      ▼
-Game Speed Increases
-      │
-      ▼
-Collision?
- ┌──────────────┐
- │     No       │
- │ Continue     │
- └──────────────┘
-        │
-       Yes
-        │
-        ▼
-Game Over
-        │
-        ▼
-Display Final Score
-        │
-        ▼
-Restart or Return to Menu
-```
+<img width="1440" height="1960" alt="image" src="https://github.com/user-attachments/assets/711ca08e-bbc8-4c3f-9bb3-6bf95f1cebaa" />
 
 ---
 
@@ -264,16 +223,6 @@ main.Main
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Main Menu
-- Gameplay Screen
-- Pause Screen
-- Game Over Screen
-
----
 
 ## 🎯 Learning Outcomes
 
